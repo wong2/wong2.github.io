@@ -1,0 +1,25 @@
+baseURL = 'https://wong2.me/'
+languageCode = 'en-us'
+title = 'wong2.me'
+theme = "paper"
+
+[params]
+twitter = 'wong2_x'
+github = 'wong2'
+instagram = 'wong2.me'
+rss = true
+avatar = 'wonderfuly@gmail.com'
+name = 'wong2'
+bio = 'Product Engineer, currently living in Shanghai.'
+
+[menu]
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 10
+[[menu.main]]
+identifier = "travel"
+name = "Travel"
+url = "/travel/"
+weight = 10
