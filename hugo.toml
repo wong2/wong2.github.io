@@ -23,3 +23,7 @@ identifier = "travel"
 name = "Travel"
 url = "/travel/"
 weight = 10
+
+[services]
+[services.googleAnalytics]
+ID = 'G-534CLDKG91'
