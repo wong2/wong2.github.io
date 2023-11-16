@@ -2,9 +2,10 @@
 title = "Projects"
 +++
 
-## ChatHub
+#### ChatHub
 
 https://chathub.gg
 
-## ChatGPT for Google
+#### ChatGPT for Google
+
 https://chatgpt4google.com
