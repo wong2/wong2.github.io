@@ -23,6 +23,11 @@ identifier = "travel"
 name = "Travel"
 url = "/travel/"
 weight = 10
+[[menu.main]]
+identifier = "use"
+name = "Use"
+url = "/use/"
+weight = 10
 
 [services]
 [services.googleAnalytics]
