@@ -6,4 +6,5 @@
 * **[Warp](https://www.warp.dev)**: terminal
 * **[VSCode](https://code.visualstudio.com)**: IDE
 * **[Shottr](https://shottr.cc)**: screenshot tool
+* **[Proxyman](https://proxyman.io)**: Network request debugging tool
 * **[MonitorControl](https://github.com/MonitorControl/MonitorControl)**: controls external display brightness and volume
