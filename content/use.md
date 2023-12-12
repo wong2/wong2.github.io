@@ -15,4 +15,6 @@
 
 * **iPhone 15 Pro**
 * **Macbook Pro M1 2021**
+* **Airpods Pro**
 * **HHKB Professional HYBRID Type-S 雪**
+* **微信读书墨水屏**
