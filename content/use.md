@@ -4,6 +4,7 @@
 
 * **[Arc](https://arc.net)**: daily browser
 * **[Raycast](https://raycast.com)**: best Mac launcher
+* **[Bitwarden](https://bitwarden.com)**: password manager
 * **[Readwise Reader](https://read.readwise.io)**: best Read-it-later and RSS reader
 * **[Warp](https://www.warp.dev)**: terminal
 * **[VSCode](https://code.visualstudio.com)**: IDE
