@@ -11,7 +11,7 @@
 * **[Proxyman](https://proxyman.io)**: HTTP requests debugging tool
 * **[MonitorControl](https://github.com/MonitorControl/MonitorControl)**: controls external display brightness and volume
 
-### Browser extensions
+### Browser Extensions
 * **[Hover Zoom+](https://chromewebstore.google.com/detail/hover-zoom+/pccckmaobkjjboncdfnnofkonhgpceea)**
 * **[Bitwarden](https://bitwarden.com)**
 * **[Vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)**
