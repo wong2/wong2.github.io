@@ -1,5 +1,13 @@
 ## Things I use
 
+### Devices
+
+* **iPhone 15 Pro**
+* **Macbook Pro M1 2021**
+* **Airpods Pro**
+* **HHKB Professional HYBRID Type-S 雪**
+* **微信读书墨水屏**
+
 ### Mac Apps
 
 * **[Arc](https://arc.net)**: daily browser
@@ -21,10 +29,6 @@
 * **[沉浸式翻译](https://chromewebstore.google.com/detail/immersive-translate-web-p/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)**
 * **[ChatHub](https://chathub.gg)**
 
-### Devices
-
-* **iPhone 15 Pro**
-* **Macbook Pro M1 2021**
-* **Airpods Pro**
-* **HHKB Professional HYBRID Type-S 雪**
-* **微信读书墨水屏**
+### SaaS
+* **[Plausible](https://plausible.io)**
+* **[Lemon Squeezy](https://lemonsqueezy.com)**
