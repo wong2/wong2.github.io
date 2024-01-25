@@ -26,9 +26,11 @@
 * **[uBlock Origin](https://chromewebstore.google.com/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)**
 * **[JSON Formatter](https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)**
 * **[ClearURLs](https://clearurls.xyz/)**
+* **[Refined GitHub](https://github.com/refined-github/refined-github)**
 * **[沉浸式翻译](https://chromewebstore.google.com/detail/immersive-translate-web-p/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)**
 * **[ChatHub](https://chathub.gg)**
 
 ### SaaS
-* **[Plausible](https://plausible.io)**
+* **[PostHog](https://posthog.com)**
 * **[Lemon Squeezy](https://lemonsqueezy.com)**
+* **[Plausible](https://plausible.io)**
