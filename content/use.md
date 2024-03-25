@@ -4,7 +4,7 @@
 
 * **iPhone 15 Pro**
 * **Macbook Pro M1 2021**
-* **Airpods Pro**
+* **AirPods Pro**
 * **HHKB Professional HYBRID Type-S 雪**
 * **微信读书墨水屏**
 
@@ -13,7 +13,7 @@
 * **[Arc](https://arc.net)**: daily browser
 * **[Raycast](https://raycast.com)**: best Mac launcher
 * **[Readwise Reader](https://read.readwise.io)**: best Read-it-later and RSS reader
-* **[Warp](https://www.warp.dev)**: terminal
+* **[iTerm2](https://iterm2.com)**: terminal
 * **[VSCode](https://code.visualstudio.com)**: IDE
 * **[Shottr](https://shottr.cc)**: screenshot tool
 * **[Proxyman](https://proxyman.io)**: HTTP requests debugging tool
