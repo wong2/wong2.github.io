@@ -14,12 +14,17 @@
 * **[Cursor](https://www.cursor.com)**: IDE
 * **[Raycast](https://raycast.com)**: best Mac launcher
 * **[Readwise Reader](https://read.readwise.io)**: best Read-it-later and RSS reader
-* **[iTerm2](https://iterm2.com)**: terminal
+* **[Ghostty](https://ghostty.zerebos.com)**: terminal
 * **[Shottr](https://shottr.cc)**: screenshot tool
 * **[Proxyman](https://proxyman.io)**: HTTP requests debugging tool
 * **[MonitorControl](https://github.com/MonitorControl/MonitorControl)**: controls external display brightness and volume
 * **[Itsycal](https://www.mowglii.com/itsycal/)**: tiny menubar calendar
 * **[Screen Studio](https://screen.studio/)**: screen recording
+* **[Lemon](https://lemon.qq.com/)**: clean your ma
+* **[Rectangle](https://rectangleapp.com/)**: window manager
+* **[Hidden Bar](https://github.com/dwarvesf/hidden)**: hide menubar items
+* **[Postico 2](https://eggerapps.at/postico2/)**: postgresql client
+* **[Tadama](https://apps.apple.com/us/app/tadama-workflow-timer/id1415817706?mt=12)**: relax timer
 
 ### Browser Extensions
 * **[Hover Zoom+](https://chromewebstore.google.com/detail/hover-zoom+/pccckmaobkjjboncdfnnofkonhgpceea)**
