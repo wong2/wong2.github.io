@@ -20,7 +20,7 @@
 * **[MonitorControl](https://github.com/MonitorControl/MonitorControl)**: controls external display brightness and volume
 * **[Itsycal](https://www.mowglii.com/itsycal/)**: tiny menubar calendar
 * **[Screen Studio](https://screen.studio/)**: screen recording
-* **[Lemon](https://lemon.qq.com/)**: clean your ma
+* **[Lemon](https://lemon.qq.com/)**: clean your mac
 * **[Rectangle](https://rectangleapp.com/)**: window manager
 * **[Hidden Bar](https://github.com/dwarvesf/hidden)**: hide menubar items
 * **[Postico 2](https://eggerapps.at/postico2/)**: postgresql client
