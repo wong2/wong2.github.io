@@ -21,6 +21,8 @@ This is one of the fastest growing ChatGPT apps, with over 1 million users in 3 
 
 #### [mcpservers.org](https://mcpservers.org/)
 
+#### [hyakumeiten-map.com](https://hyakumeiten-map.com)
+
 #### [2005.wong2.me](https://2005.wong2.me/)
 
 ### Shortcuts
